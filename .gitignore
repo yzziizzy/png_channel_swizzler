@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+._build
+png_swizzle
+build/
+
+fonts.atlas
+sdf-comp-1.png
